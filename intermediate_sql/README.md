@@ -1,5 +1,5 @@
 ## Intermediate SQL
-#### Concepts
+### Concepts
 **Group By and Having Clause**
 
 **Aggreaget Functions**

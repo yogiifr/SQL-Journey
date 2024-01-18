@@ -1,5 +1,5 @@
 ## Basic SQL
-#### Concepts
+### Concepts
 **What is a Relational Database / RDBMS?**
 - How data is stored in a relational database?
 - What is a schema wrt to a relational database?

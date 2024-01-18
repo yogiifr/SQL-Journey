@@ -1,5 +1,5 @@
 ## Advanced SQL
-#### Concepts
+### Concepts
 **Recursive SQL Queries**
 
 **Pivot Table Function**

@@ -1,4 +1,5 @@
 ## Basic SQL
+### [📄Learning Outline Here](/basic_sql/LEARNING_NOTES.md)
 ### Concepts
 **What is a Relational Database / RDBMS?**
 - How data is stored in a relational database?
@@ -40,3 +41,4 @@
 
 **INNER join**
 - How to fetch data from multiple tables.
+
